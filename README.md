@@ -61,7 +61,7 @@ Run the test suite with `bundle exec rspec`
 
 For local deployment run your development server with `rails s` and visit [localhost:3000](http://localhost:3000) to see the app in action.
 
-[Viewing Party](https://viewing-party-2008.herokuapp.com/) is deployed remotely via Heroku (NOTE - is there a heroku badge?)
+[Viewing Party](https://viewing-party-2008.herokuapp.com/) is deployed remotely via Heroku
 
 ## Schema <a name="schema"></a>
 
